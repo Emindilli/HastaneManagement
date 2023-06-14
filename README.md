@@ -1,0 +1,2 @@
+# HastaneManagement
+hastane otomasyon sistemi 
